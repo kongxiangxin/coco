@@ -19,7 +19,7 @@
         <druid-spring-boot-starter.version>1.1.10</druid-spring-boot-starter.version>
         <commons-lang3.version>3.7</commons-lang3.version>
         <orika.version>1.5.4</orika.version>
-        <shiro-springboot.version>1.4.0</shiro-springboot.version>
+        <shiro-springboot.version>1.7.1</shiro-springboot.version>
         <spring-aop.version>5.2.2.RELEASE</spring-aop.version>
         <swagger.version>2.9.2</swagger.version>
     </properties>
